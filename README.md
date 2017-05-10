@@ -1,6 +1,8 @@
 # homebridge-sensibo
 [Homebridge](https://github.com/nfarina/homebridge) platform plugin for the Sensibo
 
+This plugin was originally created as a favor to a friend. I myself do not have a sensibo or access to a sensibo so I am unable to properly debug this project. If anyone wants to take this over, please let me know. If anyone has fixes they'd like to submit then I'll approve any pull that makes sense.
+
 # Installation
 
 1. Install homebridge using: npm install -g homebridge
